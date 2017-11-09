@@ -2,7 +2,7 @@
 
 Hack Club is a nonprofit network of student-led high school coding clubs.
 
-The typical Hack Club is led by 2-3 students, has 15-20 members, and meets weekly after school for 1.5 hours. Meetings resemble mini-hackathons, where students learn to code by building self-directed projects. As clubs mature, they attend hackathons, run outreach programs at middle and elementary schools, and host their own events.
+The typical Hack Club is led by 2-3 students, has 15-20 members, and meets weekly after school for 90 minutes. Meetings resemble mini-hackathons, where students learn to code by building self-directed projects. As clubs mature, they attend hackathons, run outreach programs at middle and elementary schools, and host their own events.
 
 Hack Club is an entirely open source organization (even [our finances](https://github.com/hackclub/ledger)!). This repository is where we store most of our written materials.
 
